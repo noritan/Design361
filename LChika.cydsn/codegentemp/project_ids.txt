@@ -1,7 +1,0 @@
-C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|8e2ed0ae-ce65-4eec-bf25-62aa429ac327
-C:\Users\ntan\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|22fb9383-54c5-4f56-a69f-ce5bbfe7009b
-C:\Users\ntan\Documents\PSoC Creator\4.1\Downloads ( 4.1).cylib\Downloads ( 4.1).cyprj|f3a8f83b-af29-44e5-aa5e-987a581dfefc
-C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|c233699b-188b-42fd-83f0-5b025de18c98
-C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|106c5287-c95c-4f71-bc6a-4bc0575fe64f
-C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|390995ff-5128-49f3-a512-56d29b84c73f
-C:\Users\ntan\Documents\GitHub\Design361\LChika.cydsn\LChika.cyprj|e4d25c73-e08b-4761-a005-fc3e4a05a7bf
